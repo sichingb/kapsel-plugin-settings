@@ -1,0 +1,1 @@
+# kapsel-plugin-settings
